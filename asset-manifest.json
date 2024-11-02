@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-super-mario-bro/static/css/main.799e85e5.css",
+    "main.js": "/react-super-mario-bro/static/js/main.bbe138de.js",
+    "static/js/453.b8e81e6c.chunk.js": "/react-super-mario-bro/static/js/453.b8e81e6c.chunk.js",
+    "index.html": "/react-super-mario-bro/index.html",
+    "main.799e85e5.css.map": "/react-super-mario-bro/static/css/main.799e85e5.css.map",
+    "main.bbe138de.js.map": "/react-super-mario-bro/static/js/main.bbe138de.js.map",
+    "453.b8e81e6c.chunk.js.map": "/react-super-mario-bro/static/js/453.b8e81e6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.bbe138de.js"
+  ]
+}
